@@ -43,5 +43,20 @@ I faced a problem about creating report page in the project. I would be happy if
 2. Use the SQL script provided in the project to create the necessary tables.
 3. Update the connection string in the app.config file.
 
-### Screenshots
+## Screenshots
+
+### Personnel Login Panel
 ![Login Panel](images/signin.jpg)
+*This is the login panel for the Personnel Tracking System.*
+
+### Personnel Registry Form
+![Personnel Registry](images/form1.jpg)
+*This screenshot displays the personnel registry form where you can add or update personnel information.*
+
+### Chart Representation
+![Occupation and Cities Chart](images/formchart.jpg)
+*This chart shows the comparison of cities and salaries for different occupations.*
+
+### Personnel Statistics
+![Personnel Statistics](images/statistic.jpg)
+*This image summarizes key statistics such as total personnel and average salary.*

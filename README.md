@@ -30,7 +30,19 @@ I faced a problem about creating report page in the project. I would be happy if
    ```bash
    git clone https://github.com/your-username/Personnel-Registery-with-SQL.git
 2. Create a new database in MS SQL Server and update the connection string in the project’s configuration file.
-3. Open the project in Visual Studio Code.
+3. Open the project in Visual Studio.
 4. Run the project by pressing F5 or running the following command in the terminal
    ```bash
    dotnet run
+
+### Database Setup:
+1. Create a database in MS SQL Server:
+   ```bash
+   CREATE DATABASE PersonnelDB;
+   ```
+2. Use the SQL script provided in the project to create the necessary tables.
+3. Update the connection string in the app.config file.
+
+### Screenshots
+![Login Panel](images/signin.png)
+Personnel Registry and Operations Screen

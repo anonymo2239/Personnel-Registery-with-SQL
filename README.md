@@ -44,5 +44,4 @@ I faced a problem about creating report page in the project. I would be happy if
 3. Update the connection string in the app.config file.
 
 ### Screenshots
-![Login Panel](images/signin.png)
-Personnel Registry and Operations Screen
+![Login Panel](images/signin.jpg)

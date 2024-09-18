@@ -1,4 +1,4 @@
-# PERSONNEL Registery with SQL
+# Personnel Registery with SQL
 
 This project is a **Personnel Tracking System** designed to manage employee information, including adding, editing, and listing records.
 Personnel Registery Project with SQL from Murat Yücedağ Udemy. This is my first medium-sized project that involves SQL.

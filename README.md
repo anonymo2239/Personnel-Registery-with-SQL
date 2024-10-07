@@ -2,8 +2,10 @@
 
 This project is a **Personnel Tracking System** designed to manage employee information, including adding, editing, and listing records.
 Personnel Registery Project with SQL from Murat Yücedağ Udemy. This is my first medium-sized project that involves SQL.
-Username: admin22
-Password: 001122
+
+* Username: admin22
+* Password: 001122
+
 You can use them to enter the system
 I faced a problem about creating report page in the project. I would be happy if you fork or something.
 
